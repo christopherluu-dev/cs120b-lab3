@@ -1,7 +1,7 @@
 /*	Author: christopherluu
  *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: Lab #3  Exercise #1
+ *	Lab Section: 22
+ *	Assignment: Lab #3  Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
